@@ -1,0 +1,3 @@
+# Contributing
+
+All skill levels are welcome. Open an issue, reproduce the problem, and submit a focused pull request with testing notes. Improvements to accessibility checks should cite applicable W3C/WCAG guidance and explain limitations. Do not submit credentials or private code. Contributions are submitted for distribution under the repository's MIT licence, while authors retain rights in their original contributions. Respect others and preserve acknowledgements.
